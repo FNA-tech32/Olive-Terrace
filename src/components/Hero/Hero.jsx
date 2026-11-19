@@ -1,4 +1,4 @@
-import Header from "../shared/Header/header";
+import Header from "../shared/Header/Header";
 import heroImage from '../../assets/hero.png';
 import heroFlower from '../../assets/heroFlower.png';
 
